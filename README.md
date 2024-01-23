@@ -11,3 +11,4 @@
 
 ✅GIT (работа в терминале, репозиториях, Issue, Pull request, Fork и клонирование, Jira)
 ![Alt text](19865_en_1-1.jpg)
+https://github.com/seny2023/Resyme/blob/db13f76815a45ade04637e03380f83f07f787c3e/19865_en_1.jpg
